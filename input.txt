@@ -1,0 +1,12 @@
+public class c1
+{
+	public static void main()
+	{
+		int i=0;
+		String s;
+		boolean b=true;
+		i=i+1;
+		for(int j=0;j<i;j++)
+			i++;
+	}
+}
